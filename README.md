@@ -1,1 +1,1 @@
-Parsing Yandex map
+Parsing Yandex map with Scrapy
